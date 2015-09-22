@@ -1,2 +1,4 @@
-<php>
-echo "Hola";
+<?php
+    echo "Hello World";
+    echo "\n";
+?>
